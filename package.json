@@ -1,0 +1,25 @@
+{
+  "name": "next-project1",
+  "version": "1.0.0",
+  "description": "Frontend Project1 App with Next JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "frontend",
+    "react"
+  ],
+  "author": "Ade Indriawan",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "next": "^4.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
